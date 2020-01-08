@@ -1,0 +1,13 @@
+C:\Users\fabio\OneDrive\Desktop\All Projects\C#\Rubrics\Rubrics.Data.Access\bin\Debug\netcoreapp3.0\Rubrics.Data.Access.deps.json
+C:\Users\fabio\OneDrive\Desktop\All Projects\C#\Rubrics\Rubrics.Data.Access\bin\Debug\netcoreapp3.0\Rubrics.Data.Access.dll
+C:\Users\fabio\OneDrive\Desktop\All Projects\C#\Rubrics\Rubrics.Data.Access\obj\Debug\netcoreapp3.0\Rubrics.Data.Access.csprojAssemblyReference.cache
+C:\Users\fabio\OneDrive\Desktop\All Projects\C#\Rubrics\Rubrics.Data.Access\obj\Debug\netcoreapp3.0\Rubrics.Data.Access.AssemblyInfoInputs.cache
+C:\Users\fabio\OneDrive\Desktop\All Projects\C#\Rubrics\Rubrics.Data.Access\obj\Debug\netcoreapp3.0\Rubrics.Data.Access.AssemblyInfo.cs
+C:\Users\fabio\OneDrive\Desktop\All Projects\C#\Rubrics\Rubrics.Data.Access\bin\Debug\netcoreapp3.0\Rubrics.Data.dll
+C:\Users\fabio\OneDrive\Desktop\All Projects\C#\Rubrics\Rubrics.Data.Access\bin\Debug\netcoreapp3.0\Rubrics.Data.Access.runtimeconfig.json
+C:\Users\fabio\OneDrive\Desktop\All Projects\C#\Rubrics\Rubrics.Data.Access\bin\Debug\netcoreapp3.0\Rubrics.Data.Access.runtimeconfig.dev.json
+C:\Users\fabio\OneDrive\Desktop\All Projects\C#\Rubrics\Rubrics.Data.Access\bin\Debug\netcoreapp3.0\Rubrics.Data.Access.pdb
+C:\Users\fabio\OneDrive\Desktop\All Projects\C#\Rubrics\Rubrics.Data.Access\bin\Debug\netcoreapp3.0\Rubrics.Data.pdb
+C:\Users\fabio\OneDrive\Desktop\All Projects\C#\Rubrics\Rubrics.Data.Access\obj\Debug\netcoreapp3.0\Rubrics.Data.Access.csproj.CopyComplete
+C:\Users\fabio\OneDrive\Desktop\All Projects\C#\Rubrics\Rubrics.Data.Access\obj\Debug\netcoreapp3.0\Rubrics.Data.Access.dll
+C:\Users\fabio\OneDrive\Desktop\All Projects\C#\Rubrics\Rubrics.Data.Access\obj\Debug\netcoreapp3.0\Rubrics.Data.Access.pdb

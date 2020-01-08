@@ -1,0 +1,8 @@
+C:\Users\fabio\OneDrive\Desktop\All Projects\C#\Rubrics\Rubrics.Data\bin\Debug\netcoreapp3.0\Rubrics.Data.deps.json
+C:\Users\fabio\OneDrive\Desktop\All Projects\C#\Rubrics\Rubrics.Data\bin\Debug\netcoreapp3.0\Rubrics.Data.dll
+C:\Users\fabio\OneDrive\Desktop\All Projects\C#\Rubrics\Rubrics.Data\bin\Debug\netcoreapp3.0\Rubrics.Data.pdb
+C:\Users\fabio\OneDrive\Desktop\All Projects\C#\Rubrics\Rubrics.Data\obj\Debug\netcoreapp3.0\Rubrics.Data.csprojAssemblyReference.cache
+C:\Users\fabio\OneDrive\Desktop\All Projects\C#\Rubrics\Rubrics.Data\obj\Debug\netcoreapp3.0\Rubrics.Data.AssemblyInfoInputs.cache
+C:\Users\fabio\OneDrive\Desktop\All Projects\C#\Rubrics\Rubrics.Data\obj\Debug\netcoreapp3.0\Rubrics.Data.AssemblyInfo.cs
+C:\Users\fabio\OneDrive\Desktop\All Projects\C#\Rubrics\Rubrics.Data\obj\Debug\netcoreapp3.0\Rubrics.Data.dll
+C:\Users\fabio\OneDrive\Desktop\All Projects\C#\Rubrics\Rubrics.Data\obj\Debug\netcoreapp3.0\Rubrics.Data.pdb
